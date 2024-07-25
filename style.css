@@ -1,0 +1,72 @@
+
+.image-header{
+    background-image: url(assets/header.jpg);
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+    padding: 120px 120px 80px 120px;
+}
+
+.section2{
+    background-image: url(assets/second-section.jpg);
+    height: 800px;
+    background-position:center;
+    background-size: cover;
+    padding: 350px 70px 80px 120px;
+    
+}
+
+
+
+
+.box{
+    position: relative;
+    width:250px;
+    height:300px;
+    margin-left:30px;
+}
+.btext{
+    position: absolute;
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 45px;
+}
+.bimg{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    right:-50px;
+    bottom:-40px
+}
+.bnum{
+    top:0;
+    left:0;
+    padding: 20px;
+
+}
+.prof-img{
+  height: 300px;
+  width: 250px;
+  object-fit: cover;
+  object-position: 25% 50%;
+  position: absolute;
+  left:0;
+  top:0;
+  margin-top:50px;
+  margin-left:20px;
+}
+
+.main{
+    position: relative;
+}
+.img{
+    padding-left:200px;
+}
+.txt{
+    padding-left: 200px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
